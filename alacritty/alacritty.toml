@@ -1,6 +1,8 @@
+import = ["~/.config/alacritty/catppuccin/catppuccin-macchiato.toml"]
+
 [window]
 dynamic_padding = true
-opacity = 0.9
+# opacity = 0.9
 option_as_alt = "Both"
 startup_mode = "Maximized"
 
